@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "830274733310",
+    "firebase_url": "https://vender-machine-3ecd6-default-rtdb.firebaseio.com",
+    "project_id": "vender-machine-3ecd6",
+    "storage_bucket": "vender-machine-3ecd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830274733310:android:73069fa3f09b11d66691af",
+        "android_client_info": {
+          "package_name": "com.example.vender_machine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830274733310-rfsou6a9l4nue36vn7j58qk5j13ua735.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vender_machine",
+            "certificate_hash": "7d724b9026de99dd57595c3e5a1223ebc1bf9cec"
+          }
+        },
+        {
+          "client_id": "830274733310-2rdd6ihsr3q1heuvht5g09l0qk34f9qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlDhNpG-QoAcQv_TmkItaueKhqAIBqlws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830274733310-2rdd6ihsr3q1heuvht5g09l0qk34f9qv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "830274733310-eh7dj1achmivl6gblfprg87vib1u73s0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.venderMachine"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
